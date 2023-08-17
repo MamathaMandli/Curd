@@ -8,6 +8,8 @@ public class Conflict
     }
     static void add()
     {
+
         System.out.println("some text added");
+        System.out.println("test");
     }
 }
