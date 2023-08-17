@@ -11,5 +11,6 @@ public class Conflict
 
         System.out.println("some text added");
         System.out.println("test");
+        System.out.println("change");
     }
 }
